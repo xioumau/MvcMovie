@@ -3,15 +3,15 @@ using System.Text.Encodings.Web;
 
 namespace MvcMovie.Controllers
 {
-    public class HelloWorldController
+    public class HelloWorldController : Controller
     {
         // 
         // GET: /HelloWorld/
 
-        public string Index()
-        {
-            return "Essa é uma ação default...";
-        }
+      public IActionResult Index()
+      {
+          return View();
+      }
 
         // 
         // GET: /HelloWorld/Welcome/ 
