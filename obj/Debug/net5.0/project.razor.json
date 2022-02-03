@@ -15619,6 +15619,11 @@
   "RootNamespace": "MvcMovie",
   "Documents": [
     {
+      "FilePath": "/home/mauricio/vscodeProjects/app-mvc/MvcMovie/MvcMovie/Views/HelloWorld/Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/mauricio/vscodeProjects/app-mvc/MvcMovie/MvcMovie/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
