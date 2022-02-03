@@ -46,3 +46,4 @@ A file matching the name NewLocalDbContext.cshtml was not found within any of th
 ```
 
 Se for o caso, você pode achar a solução no repositório do [Scaffolding](https://github.com/dotnet/Scaffolding/issues/1387#issuecomment-735289808)
+
