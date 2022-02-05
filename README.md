@@ -57,3 +57,13 @@ Para atualizar o banco de dados para a migração mais recente, que o comando an
 dotnet ef database update
 ```
 
+Instale o jQuery:
+```
+sudo apt install jq
+```
+
+E o pacote de validação do jQuery:
+```
+dotnet add package jQuery.Validation
+```
+

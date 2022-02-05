@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K7zvOyAFkq6pr1Uq2EIniM6NB9ZiyKkxMFFoRMsVtXCNGNYETchfSsadSeviKfliXbc2nbvPokbq9U/9KrKaVA==",
+  "dgSpecHash": "INd0ZXNd77qipDdMeg4wkbdhz85NistMmcNoctscf+2TUms5Ps0a2yRqQEKBwqkSZBanua82HyeRyn4UVhIR7w==",
   "success": true,
   "projectFilePath": "/home/mauricio/vscodeProjects/app-mvc/MvcMovie/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/home/mauricio/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/mauricio/.nuget/packages/jquery/1.4.4/jquery.1.4.4.nupkg.sha512",
+    "/home/mauricio/.nuget/packages/jquery.validation/1.19.3/jquery.validation.1.19.3.nupkg.sha512",
     "/home/mauricio/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.0/microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.0/microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.0/microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.0.nupkg.sha512",
