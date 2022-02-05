@@ -47,3 +47,13 @@ A file matching the name NewLocalDbContext.cshtml was not found within any of th
 
 Se for o caso, você pode achar a solução no repositório do [Scaffolding](https://github.com/dotnet/Scaffolding/issues/1387#issuecomment-735289808)
 
+Gera um arquivo de migração Migrations/{timestamp}_InitialCreate.cs:
+```
+dotnet ef migrations add InitialCreate
+```
+
+Para atualizar o banco de dados para a migração mais recente, que o comando anterior criou:
+```
+dotnet ef database update
+```
+
