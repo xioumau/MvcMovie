@@ -66,4 +66,3 @@ E o pacote de validação do jQuery:
 ```
 dotnet add package jQuery.Validation
 ```
-
