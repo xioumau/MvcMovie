@@ -78,4 +78,4 @@ Gerar um banco de dados novo com as modificações:
 ```
 dotnet ef database update
 ```
-Assim cabe ao EF gerar o banco de dados novo.
+Assim, cabe ao EF gerar o banco de dados novo.
