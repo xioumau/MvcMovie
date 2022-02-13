@@ -66,3 +66,16 @@ E o pacote de validação do jQuery:
 ```
 dotnet add package jQuery.Validation
 ```
+
+Se alguma alteração no código for feita de modo que altere a estrutura do banco de dados, como por exemplo, adicionar uma nova propriedade em alguma classe que gere uma nova coluna no banco de dados, é necessário excluir o banco de dados e gerar um novo:
+
+Exluir o banco de dados:
+```
+dotnet ef database drop
+```
+
+Gerar um banco de dados novo com as modificações:
+```
+dotnet ef database update
+```
+Assim cabe ao EF gerar o banco de dados novo.
